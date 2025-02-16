@@ -1,0 +1,8 @@
+{
+  "label": "Fronted Docs",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Fronted Documentation"
+  }
+}
