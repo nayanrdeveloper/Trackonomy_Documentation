@@ -65,5 +65,5 @@ Happy coding and exploring!
 ---
 
 > **Tip:**  
-> Don't forget to check out the [Backend Documentation](./category/backend-api) and [Frontend Documentation](./frontend) sections for more detailed information.
+> Don't forget to check out the [Backend Documentation](./category/backend-api) sections for more detailed information.
 
